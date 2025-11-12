@@ -1,3 +1,6 @@
+
+<img width="1488" height="620" alt="feegow" src="https://github.com/user-attachments/assets/b453dad6-295a-42d5-832d-17b771cbc7bd" />
+
 # n8n-automacao-agendamento-feegow
 
 Automação de Agendamento de Clínicas (N8N + Feegow + Sonax)
